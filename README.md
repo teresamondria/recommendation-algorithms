@@ -1,23 +1,17 @@
-# Python Recommender System for HackNY
-
-Welcome to my Python-based Recommender System project, a deep dive into various recommendation algorithms tailored for the HackNY competition. This project represents my journey in understanding and implementing different recommendation algorithms in Python.
+# Audiovisual Content Recommendation Systems Analysis
 
 ## Overview
-
-In this Jupyter Notebook, I explore the intricacies of several recommendation algorithms, emphasizing their application and impact in tech-driven industries and startups. This project is not just a demonstration of technical skills, but a testament to the potential of personalized technology in shaping user experiences and content delivery.
+Welcome to my exploration of audiovisual content recommendation algorithms! This project is a blend of my passions: technology, data analysis, and social sciences. It's not just about coding; it's about understanding the digital landscape and how it influences our choices and cultural perspectives.
 
 ## Project Description
+In this project, I dive into various content recommendation algorithms for audiovisual media, using Python for its flexibility and analytical depth. My goal was to dissect and compare these algorithms, uncovering their unique impacts on user recommendations and cultural consumption. This endeavor went beyond technical analysis, as it aimed to inform future public policies in Europe concerning streaming platform consumption.
 
-This project is a culmination of my efforts to understand and implement various recommendation algorithms using Python. My development approach was iterative, focusing on one algorithm at a time, understanding its mechanics, and then coding it with a clear explanation. One of the significant challenges was optimizing the algorithms for better accuracy and performance, which I addressed by experimenting with different models and parameters.
+## Challenges and Learning
+Navigating these algorithms' complexities, I focused on consistently differentiating their recommendation patterns. The primary challenge was integrating real-world datasets to enhance the project's applicability and my learning experience. This project was a crucial part of my academic journey at Carlos III University of Madrid, contributing to the broader "Diversity and Audiovisual Services on Subscription Demand" project.
 
-The project was driven by my fascination with how algorithms can tailor digital experiences to individual preferences, significantly impacting e-commerce and content platforms. What matters most to me in this project is its potential to serve as a learning guide for others interested in recommendation systems and its application in real-world scenarios.
+## Future Directions
+If I were to rebuild this project, I'd integrate real-world datasets from the outset, possibly leveraging resources like JustWatch’s extensive catalog. This approach would offer more practical challenges and insightful results, enhancing the project's relevance in the ever-evolving world of media consumption.
 
-If I were to rebuild this project from scratch, I would focus more on integrating real-world datasets earlier in the development process. This approach would likely provide more insightful results and practical challenges, enhancing the project's applicability and my learning experience.
+## Stay Tuned!
+This project is just the beginning. My journey continues as I further explore the intersection of technology and social impact in the world of digital media. Stay connected to see where this adventure takes me next!
 
-## Why This Project?
-
-I built this project out of my interest in how data-driven technologies can enhance user experiences. The world of personalized content, especially in streaming services and e-commerce, is rapidly evolving, and being part of this evolution is exciting to me. This project is a step towards understanding and contributing to this field.
-
-## If Rebuilt From Scratch
-
-Rebuilding this project from scratch, I would incorporate a more diverse set of algorithms from the outset and perhaps explore more complex hybrid models. Additionally, I would seek feedback from potential end-users earlier in the development process to align the project more closely with real-world needs.
